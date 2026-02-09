@@ -262,7 +262,11 @@ If you have any questions or need help with setup:
 - 📖 Check the documentation files
 - 💬 Join our community discussions
 
-## 📜 License
+## � Author
+
+- **Zehan** - [zehan12](https://github.com/zehan12)
+
+## �📜 License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
